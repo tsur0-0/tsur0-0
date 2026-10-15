@@ -1,6 +1,6 @@
 <div align="center">
 
-# `tsur0-0`
+# `Walisu`
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:080b2a,50:312e81,100:06b6d4&height=140&section=header&text=またね&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Banner azul e roxo"/>
 
@@ -18,7 +18,8 @@
 ## 🟣 Sobre mim
 
 - 🇧🇷 Brasil
-- 💻 Aprendendo e criando projetos com Python
+- 💻 Aprendendo e criando projetos com Python,lua e outros.
+- 💀 Estudando programação 
 
 
 > “Se não der certo, tenta de novo.”
