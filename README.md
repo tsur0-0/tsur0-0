@@ -49,8 +49,8 @@
 
 ## 💜 Meus interesses
 
-- 🌸 **Anime:** *TONIKAWA*, *Bunny Girl Senpai*, *Darling in the FranXX*, **Steins:Gate** e outros.
-- 🎮 **Jogos:** *Hollow Knight*, *Celeste*, *Stardew Valley* 
+- 🌸 **Anime:** **TONIKAWA**, **Bunny Girl Senpai**, **Darling in the FranXX**, **Steins:Gate** e outros.
+- 🎮 **Jogos:** **Hollow Knight**, **Celeste**, **Stardew Valley** 
 
 ---
 
@@ -58,6 +58,6 @@
 
 ### ありがとう、またね 💜
 
-*`$ code / dream / repeat _`*
+*`$ code / Explode myself / repeat _`*
 
 </div>
