@@ -6,10 +6,16 @@
 
 **O limite é só o Atom e a paciência**
 
-[![GitHub](https://img.shields.io/badge/GitHub-tsur0--0-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tsur0-0)
+![GitHub](https://img.shields.io/badge/GitHub-tsur0--0-111827?style=for-the-badge&logo=github&logoColor=white)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+![Minecraft](https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-111111?style=for-the-badge&logo=robloxstudio&logoColor=white)
+![TONIKAWA](https://img.shields.io/badge/TONIKAWA-Fan-8B5CF6?style=for-the-badge&logo=heart&logoColor=white)
+
+</div>
 
 </div>
 
