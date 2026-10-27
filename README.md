@@ -24,7 +24,6 @@
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Scratch](https://img.shields.io/badge/Scratch-F9A83A?style=flat-square&logo=scratch&logoColor=white)
 
 </div>
 
