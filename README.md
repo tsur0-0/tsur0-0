@@ -5,8 +5,8 @@
 <img src="https://cdn.discordapp.com/attachments/1261846093172445185/1565331133858709574/e5f1f4c68a5f37821c4aaf581ce85c11.jpg?ex=6ae483b8&is=6ae33238&hm=af9ee62986ac8f3abd160312a23ee98ee4c4c63b7175d841952c3ac9c71b410e" width="100%" alt="Gato branco em cenáriodo minecraft " />
 
 </td>
-<td width="32%" valign="top" align="right">
-  
+<td width="32%" valign="top" align="center">
+<p align="center">
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=roblox&logoColor=white)
@@ -21,7 +21,7 @@
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-
+</p>
 </td>
 </tr>
 </table>
@@ -36,6 +36,7 @@
 ![RPG_Paper_Maker](https://img.shields.io/badge/RPG_Paper_Maker-8B5CF6?style=for-the-badge&logoColor=white)
 ![GB_Studio](https://img.shields.io/badge/GB_Studio-6B8E23?style=for-the-badge&logoColor=white)
 ![RenPy](https://img.shields.io/badge/RenPy-FF7F7F?style=for-the-badge&logo=renpy&logoColor=white)
+![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white)
 
 ## 📊 GitHub
 
