@@ -2,7 +2,7 @@
 <tr>
 <td width="68%" valign="middle">
 
-<img src="https://cdn.discordapp.com/attachments/1261846093172445185/1565331133858709574/e5f1f4c68a5f37821c4aaf581ce85c11.jpg?ex=6ae483b8&is=6ae33238&hm=af9ee62986ac8f3abd160312a23ee98ee4c4c63b7175d841952c3ac9c71b410e" width="100%" alt="Gato branco em cenáriodo minecraft " />
+<img src="https://imgur.com/a/mXwxRI9" />
 
 </td>
 <td width="32%" valign="top" align="center">
