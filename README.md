@@ -2,7 +2,7 @@
 <tr>
 <td width="68%" valign="middle">
 
-<img src="https://imgur.com/a/mXwxRI9" />
+<img src="https://i.imgur.com/TUa19en.gif" />
 
 </td>
 <td width="32%" valign="top" align="center">
