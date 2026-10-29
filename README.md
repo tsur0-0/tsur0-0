@@ -2,13 +2,11 @@
 <tr>
 <td width="68%" valign="middle">
 
-<img src="https://cdn.discordapp.com/attachments/1261846093172445185/1565331133858709574/e5f1f4c68a5f37821c4aaf581ce85c11.jpg?ex=6ae483b8&is=6ae33238&hm=af9ee62986ac8f3abd160312a23ee98ee4c4c63b7175d841952c3ac9c71b410e" width="100%" alt="Banner de anime com Hu Tao e um fantasma em um cenário escuro" />
+<img src="https://cdn.discordapp.com/attachments/1261846093172445185/1565331133858709574/e5f1f4c68a5f37821c4aaf581ce85c11.jpg?ex=6ae483b8&is=6ae33238&hm=af9ee62986ac8f3abd160312a23ee98ee4c4c63b7175d841952c3ac9c71b410e" width="100%" alt="Gato branco em cenáriodo minecraft " />
 
 </td>
 <td width="32%" valign="top" align="right">
-
-### 🧰 Tecnologias
-
+  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=roblox&logoColor=white)
@@ -30,7 +28,7 @@
 
 ---
 
-## 🛠️ Engines
+## 🛠️ Engines Trabalhadas
 
 ![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
@@ -46,21 +44,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsur0-0&layout=compact&hide_border=true&bg_color=080b1a&title_color=8b5cf6&text_color=e2e8f0" alt="Linguagens mais usadas" />
 
 <img src="https://streak-stats.demolab.com?user=tsur0-0&hide_border=true&background=080b1a&ring=8b5cf6&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=e2e8f0&dates=94a3b8" alt="Sequência de contribuições" />
-
-</div>
-
-## ✨ Meus interesses
-
-- ♨️ **Anime**
-- 🎮 **Jogos**
-- 🎶 **Música**
-
----
-
-<div align="center">
-
-### ありがとう、またね 💜
-
-*`$ code / Explode myself / repeat _`*
 
 </div>
