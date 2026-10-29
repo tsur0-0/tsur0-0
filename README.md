@@ -21,22 +21,21 @@
 <img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white" alt="JSON" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+
+<h3 align="center">🛠️ Engines</h3>
+<img src="https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white" alt="GameMaker" />
+<img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot" />
+<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black" alt="Unity" />
+<img src="https://img.shields.io/badge/RPG_Paper_Maker-8B5CF6?style=for-the-badge&logoColor=white" alt="RPG Paper Maker" />
+<img src="https://img.shields.io/badge/GB_Studio-6B8E23?style=for-the-badge&logoColor=white" alt="GB Studio" />
+<img src="https://img.shields.io/badge/RenPy-FF7F7F?style=for-the-badge&logo=renpy&logoColor=white" alt="RenPy" />
+<img src="https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white" alt="Roblox Studio" />
 </div>
 </td>
 </tr>
 </table>
 
 ---
-
-## 🛠️ Engines Trabalhadas
-
-![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=unity&logoColor=black)
-![RPG_Paper_Maker](https://img.shields.io/badge/RPG_Paper_Maker-8B5CF6?style=for-the-badge&logoColor=white)
-![GB_Studio](https://img.shields.io/badge/GB_Studio-6B8E23?style=for-the-badge&logoColor=white)
-![RenPy](https://img.shields.io/badge/RenPy-FF7F7F?style=for-the-badge&logo=renpy&logoColor=white)
-![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=robloxstudio&logoColor=white)
 
 ## 📊 GitHub
 
