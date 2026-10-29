@@ -42,7 +42,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsur0-0&layout=compact&hide_border=true&bg_color=080b1a&title_color=8b5cf6&text_color=e2e8f0" alt="Linguagens mais usadas" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=tsur0-0&layout=compact&hide_border=true&bg_color=080b1a&title_color=8b5cf6&text_color=e2e8f0" alt="Linguagens mais usadas" />
 
 <img src="https://streak-stats.demolab.com?user=tsur0-0&hide_border=true&background=080b1a&ring=8b5cf6&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=e2e8f0&dates=94a3b8" alt="Sequência de contribuições" />
 
