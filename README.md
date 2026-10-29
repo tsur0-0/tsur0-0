@@ -1,11 +1,3 @@
-<div align="center">
-
-# `Walisu` ・ またね
-
-*Aprendendo de tudo um pouco.*
-
-</div>
-
 <table>
 <tr>
 <td width="68%" valign="middle">
