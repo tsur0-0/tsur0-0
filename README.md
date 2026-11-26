@@ -4,12 +4,10 @@
 
 <br>
 
-# 夢と悪夢の狭間に。
-### *somewhere between a dream and a nightmare.*
+# 虚ろな夢の世界
+### **
 
 **Walisu** · `tsur0-0`
-
-<sub>静かな夢、歪んだ現実。 — a quiet dream in a distorted reality.</sub>
 
 </div>
 
