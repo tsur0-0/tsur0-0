@@ -89,7 +89,4 @@
 <sub>沙耶の唄 · 夢と悪夢の狭間に。</sub>
 
 <br>
-
-<sub><a href="https://konachan.com/post/show/88888">Artwork source: Saya portrait</a></sub>
-
 </div>
