@@ -20,10 +20,8 @@
 - Interested in game development, automation and Discord bots.
 - Usually working with Python, Lua and game-related tools.
 
-<sub>「夢と悪夢の境界は、思っているより曖昧。」</sub>
-
 </td>
-<td width="38%" valign="middle" align="center">
+<td width="20%" valign="middle" align="center">
 
 <img src="https://img.shields.io/badge/STATUS-dreaming-183b3b?style=flat-square&labelColor=090d10" alt="Status: dreaming" />
 
