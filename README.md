@@ -12,7 +12,7 @@
 
 <table>
 <tr>
-<td width="99%" valign="top">
+<td width="80%" valign="top">
 
 ## 𝘈𝘣𝘰𝘶𝘵 𝘮𝘦
 
