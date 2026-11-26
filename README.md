@@ -5,9 +5,6 @@
 <br>
 
 # 虚ろな夢の世界
-### **
-
-**Walisu** · `tsur0-0`
 
 </div>
 
@@ -15,7 +12,7 @@
 
 <table>
 <tr>
-<td width="62%" valign="top">
+<td width="99%" valign="top">
 
 ## 𝘈𝘣𝘰𝘶𝘵 𝘮𝘦
 
