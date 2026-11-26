@@ -70,6 +70,27 @@
 
 ---
 
+## 𝘍𝘪𝘯𝘥 𝘮𝘦 𝘦𝘭𝘴𝘦𝘸𝘩𝘦𝘳𝘦
+
+<div align="center">
+
+<a href="https://discord.com/users/801598905229115473">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+<a href="https://www.last.fm/user/Walisu_">
+  <img src="https://img.shields.io/badge/Last.fm-D51007?style=for-the-badge&logo=lastdotfm&logoColor=white" alt="Last.fm" />
+</a>
+<a href="https://steamcommunity.com/id/Walisu_/">
+  <img src="https://img.shields.io/badge/Steam-171A21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" />
+</a>
+<a href="https://www.roblox.com/search/users?keyword=Walisson1028">
+  <img src="https://img.shields.io/badge/Roblox-000000?style=for-the-badge&logo=roblox&logoColor=white" alt="Roblox" />
+</a>
+
+</div>
+
+---
+
 ## 𝘎𝘪𝘵𝘏𝘶𝘣 𝘚𝘵𝘢𝘵𝘴
 
 <div align="center">
