@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.vgm.io/products/04/8740/8740-1596092660.png" width="100%" alt="Saya — The Song of Saya" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfAPNGttOBb-7DPgahl5MDYXTJRbal61az1sXkpdCjmss7GEQmMwjogzGR&s=10" width="100%" alt="Saya — The Song of Saya" />
 
 <br>
 
