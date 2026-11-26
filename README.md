@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://konachan.com/image/76718f2f7a0be1b6aab353b0d5bced2f/Konachan.com%20-%2088888%20saya%20saya_no_uta.jpg" width="100%" alt="Saya — The Song of Saya" />
+<img src="https://media.vgm.io/products/04/8740/8740-1596092660.png" width="100%" alt="Saya — The Song of Saya" />
 
 <br>
 
